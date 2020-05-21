@@ -1,0 +1,50 @@
+@charset "utf-8";
+
+
+h1 { font-size: 36px; text-align: center; margin-top: 0px; }
+h2 { font-size: 26px; text-align: left; }
+h3 { font-size: 25px; text-align: center; margin-top: 0px; }
+
+.element {
+	font-family: "Rajdhani", Arial;
+	font-size: 12pt;
+	text-align: center;
+}
+.center2 {
+  display: inline-block;
+  margin-left: 38%;
+  margin-right: 45%;
+}
+
+main { text-align: center; 
+margin-left: 20px;
+margin-right: 20px;
+}
+main img {
+	float: left;
+	margin: 0px 20px 20px 0px;
+	width: 25%; /* Actual width of image */
+	height: 25%; /* Actual height of image */
+}
+main .content { padding-top: 10px; text-align:left; }
+main .aboutHUA {padding-top: 10px; text-align:left;}
+main .activities {
+	padding-top: 0px; 
+	text-align: center; 
+	padding-left: 0px; 
+	padding-right: 20px;
+	overflow: hidden;
+}
+.special{
+float: left;
+ padding-left: 20px;
+ vertical-align: top;
+ }
+.pageimages{
+	padding-top: 0px;
+	padding-left: 0px; 
+	padding-right: 0px;
+}
+main ul { list-style-position: inside; }
+
+footer { clear: both; }

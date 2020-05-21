@@ -1,0 +1,86 @@
+@charset"utf-8";
+
+body {background-color: #f5f4f5;}
+.body2 {background-image: linear-gradient(#f5f4f5, #dedcdc);}
+
+.title {
+	font-family: "Petit Formal Script", cursive;
+	font-size: 28px;
+	top: 0px;
+}
+
+.header {
+  top: 0;
+  background-image: linear-gradient(black, grey);
+  background-color: #1A1A1A;
+  color: white;
+  font-family: "Charmonman";font-size: 28px;
+}
+
+body {
+	font-family: "Rajdhani", Arial;
+	font-size: 14pt;
+	text-align: left;
+	margin-left: auto;
+	margin-right: auto;
+	clear: both;
+}
+
+em {
+	font-style: normal;
+	font-weight: bold;
+	color: white;
+}
+
+footer { 
+	padding-top: 5px; 
+	margin-top: 40px; 
+	border-top: 1px solid #333;
+	}
+
+footer p { 
+	font-size: 15px; 
+	margin: 0px; 
+	}
+
+h1 { 
+	font-size: 36px; 
+	text-align:center; 
+	margin-top: 0px; 
+	}	
+
+footer { clear: left; }
+
+.logo {
+	position: absolute; 
+	top: 0px;
+    right: 0px;
+}
+img { 
+	display: block;
+	position: relative;
+	top: 0;
+	max-width: 1000px;
+	margin: 0px auto;
+	margin-top: 0px;
+	text-align:left;
+}
+ 
+.left {
+ float: left;
+ padding-left: 20px;
+ vertical-align: top;
+ display:inline-block;
+ }
+
+.right {
+ float: right;
+ vertical-align: top;
+ display:inline-block;
+ }
+ 
+a:link {color: blue;}
+a:visited {color: blue;}
+a:hover {color: maroon;}
+a:active {color: maroon;}
+
