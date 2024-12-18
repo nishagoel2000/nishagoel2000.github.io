@@ -61,6 +61,8 @@ img {
 	position: relative;
 	top: 0;
 	max-width: 1000px;
+	height: 500px; /* Set a fixed height */
+ 	object-fit: cover;
 	margin: 0px auto;
 	margin-top: 0px;
 	text-align:left;
