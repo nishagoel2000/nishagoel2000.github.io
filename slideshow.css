@@ -15,7 +15,7 @@ body {
 }
 
 .resize-image {
-  width: 100%;  /* Make it scale to the container */
+  width: 50%;  /* Make it scale to the container */
   height: auto; /* Maintain aspect ratio */
   object-fit: cover;  /* Ensure it covers the container without stretching */
 }
