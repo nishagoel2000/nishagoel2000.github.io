@@ -56,8 +56,18 @@ footer { clear: left; }
 	top: 0px;
     right: 0px;
 }
-
 img { 
+	display: block;
+	position: relative;
+	top: 0;
+	max-width: 400px;
+	object-fit: cover;
+	margin: 0px auto;
+	margin-top: 0px;
+	text-align:left;
+}
+
+main img { 
 	display: block;
 	position: relative;
 	top: 0;
