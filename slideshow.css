@@ -9,13 +9,13 @@ body {
   max-width: 500px;
   position: relative;
   margin: auto;
-  width: 300px; 
-  height: 200px; 
+  width: 400px; 
+  height: 267px; 
   text-align: center;
 }
 
 .resize-image {
-  width: 50%;  /* Make it scale to the container */
+  width: 100%;  /* Make it scale to the container */
   height: auto; /* Maintain aspect ratio */
   object-fit: cover;  /* Ensure it covers the container without stretching */
 }
