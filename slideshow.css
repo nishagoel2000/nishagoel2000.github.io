@@ -11,7 +11,7 @@ body {
   display: flex;          /* Enables flexbox */
   justify-content: center; /* Centers horizontally */
   align-items: center;     /* Centers vertically */
-  width: 100%;             /* Full width of the screen or parent container */
+  width: 400px;             /* Full width of the screen or parent container */
   height: 267px;           /* Match image height */
   overflow: hidden;        /* Ensures no overflow */
 
