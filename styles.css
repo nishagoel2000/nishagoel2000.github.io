@@ -1,7 +1,7 @@
 @charset"utf-8";
 
 body {background-color: #f3f5f7;}
-.body2 {background-image: linear-gradient(#f3f5f7, #dedcdc);}
+.body2 {background-image: linear-gradient(#f3f5f7, #99cccc);}
 
 .title {
 	font-family: "Raleway";
