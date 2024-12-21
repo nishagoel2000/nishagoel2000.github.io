@@ -23,8 +23,8 @@ margin-right: 20px;
 main img {
 	float: left;
 	margin: 0px 20px 20px 0px;
-	width: 10%; /* Actual width of image */
-	height: 10%; /* Actual height of image */
+	width: 25%; /* Actual width of image */
+	height: 25%; /* Actual height of image */
 }
 main .content { padding-top: 10px; text-align:left; }
 main .aboutHUA {padding-top: 10px; text-align:left;}
