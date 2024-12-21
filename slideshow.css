@@ -6,11 +6,11 @@ body {
 }
 
 .slideshow-container {
-  max-width: 1000px;
+  max-width: 500px;
   position: relative;
   margin: auto;
-  width: 400px; 
-  height: 267px; 
+  width: 300px; 
+  height: 200px; 
   text-align: center;
 }
 
