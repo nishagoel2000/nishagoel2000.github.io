@@ -67,16 +67,7 @@ img {
 	text-align:left;
 }
 
-coverimg { 
-	display: block;
-	position: relative;
-	top: 0;
-	max-width: 400px;
-	object-fit: cover;
-	margin: 0px auto;
-	margin-top: 0px;
-	text-align:left;
-}
+
  
 .left {
  float: left;
