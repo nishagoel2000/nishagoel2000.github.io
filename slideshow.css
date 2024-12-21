@@ -6,12 +6,15 @@ body {
 }
 
 .slideshow-container {
-  max-width: 500px;
-  position: relative;
-  margin: auto;
-  width: 400px; 
-  height: 267px; 
-  text-align: center;
+
+
+  display: flex;          /* Enables flexbox */
+  justify-content: center; /* Centers horizontally */
+  align-items: center;     /* Centers vertically */
+  width: 100%;             /* Full width of the screen or parent container */
+  height: 267px;           /* Match image height */
+  overflow: hidden;        /* Ensures no overflow */
+
 }
 
 .resize-image {
