@@ -58,16 +58,6 @@ footer { clear: left; }
 }
 
 img {
-  position: relative;
-  margin: auto;
-  width: 400px; 
-  height: 267px; 
-  text-align: center;
-  object-fit: cover; /* Maintain aspect ratio within set dimensions */
-  display: block;
-}
-
-main img {
     display: block;
     
     height: auto; /* Preserve original aspect ratio */
