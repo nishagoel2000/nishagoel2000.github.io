@@ -57,10 +57,19 @@ footer { clear: left; }
     right: 0px;
 }
 
+img {
+  position: relative;
+  margin: auto;
+  width: 400px; 
+  height: 267px; 
+  text-align: center;
+  object-fit: cover; /* Maintain aspect ratio within set dimensions */
+  display: block;
+}
 
 main img {
     display: block;
-    max-width: 100%; /* Responsive scaling for non-slideshow images */
+    
     height: auto; /* Preserve original aspect ratio */
     margin: auto; /* Center images by default */
 }
