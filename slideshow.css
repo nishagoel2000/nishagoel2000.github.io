@@ -11,14 +11,8 @@ body {
   width: 400px; 
   height: 267px; 
   text-align: center;
-}
-
-.slideshow-container img {
-    width: 400px; /* Fixed width for slideshow images */
-    height: 267px; /* Fixed height for slideshow images */
-    object-fit: cover; /* Maintain aspect ratio within set dimensions */
-    display: block;
-    margin: auto; /* Center images */
+  object-fit: cover; /* Maintain aspect ratio within set dimensions */
+  display: block;
 }
 
 .dot {
