@@ -64,14 +64,6 @@ img {
     height: auto; /* Preserve original aspect ratio */
     margin: auto; /* Center images by default */
 }
-
-.resize {
-    width: 400px;
-    height: 267px;
-    object-fit: cover; /* Ensures the image aspect ratio is preserved within the set dimensions */
-}
-
-
  
 .left {
  float: left;
