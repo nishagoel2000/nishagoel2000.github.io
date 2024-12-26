@@ -58,7 +58,7 @@ footer { clear: left; }
 }
 
 
-img {
+main img {
     display: block;
     max-width: 100%; /* Responsive scaling for non-slideshow images */
     height: auto; /* Preserve original aspect ratio */
