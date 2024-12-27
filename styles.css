@@ -64,6 +64,16 @@ img {
     margin: auto; /* Center images by default */
 }
 
+.destination-container {
+  position: relative;
+  margin: auto;
+  width: 400px; 
+  height: 267px; 
+  text-align: center;
+  object-fit: cover; /* Maintain aspect ratio within set dimensions */
+  display: block;
+}
+
 .resize {
     width: 400px;
     height: 267px;
