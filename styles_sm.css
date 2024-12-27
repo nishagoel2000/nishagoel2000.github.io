@@ -20,8 +20,8 @@ margin-left: 10px;
 margin-right: 10px;
 }
 main img {
-	width: 15%; /* 60% width of image */
-	height: 15%; /* 60% height of image */
+	width: 20%; /* 60% width of image */
+	height: 20%; /* 60% height of image */
 }
 .special{
 float: center;
