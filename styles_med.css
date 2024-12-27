@@ -23,8 +23,8 @@ margin-right: 10px;
 main img {
 	float: left;
 	margin: 0px 20px 20px 0px;
-	width: 45%; /* 75% width of image */
-	height: 45%; /* 75% height of image */
+	width: 25%; /* 75% width of image */
+	height: 25%; /* 75% height of image */
 }
 main .content {
 	padding-top: 10px;
