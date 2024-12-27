@@ -74,13 +74,6 @@ img {
   display: block;
 }
 
-.resize {
-    width: 400px;
-    height: 267px;
-    object-fit: cover; /* Ensures the image aspect ratio is preserved within the set dimensions */
-}
-
-
 .left {
  float: left;
  padding-left: 20px;
